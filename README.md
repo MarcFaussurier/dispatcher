@@ -1,12 +1,8 @@
-# Dispatcher
+# Dispatcher (fork of [ellipse/dispatcher](https://github.com/ellipsephp/dispatcher))
 
 [![Build Status](https://travis-ci.com/MarcFaussurier/dispatcher.svg?branch=master)](https://travis-ci.org/MarcFaussurier/dispatcher)
 
 This package provides a [Psr-15](https://www.php-fig.org/psr/psr-15/) dispatcher implementation.
-
-**Require** php >= 7.0
-
-**Installation** `composer require ellipse/dispatcher`
 
 **Run tests** `./vendor/bin/kahlan`
 
